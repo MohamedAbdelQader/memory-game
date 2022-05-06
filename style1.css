@@ -1,0 +1,29 @@
+
+
+#border_of_game {
+  /* width: 665px; */
+ /* background: orchid; */
+  overflow: hidden;
+  text-align: center;
+  border: 2px solid ;
+}
+#sec_for_imgs {
+  
+  border-radius: 20px;
+  display: inline-block;
+  background: url(Moon.gif);
+  background-size: cover;
+  margin: 3px 10px;
+  width: 180px;
+  height: 180px;
+  padding: 0px;
+}
+section {
+  text-align: center;
+}
+img {
+  opacity: 0;
+  width: 180px;
+  height: 180px;
+  border-radius: 20px;
+}
